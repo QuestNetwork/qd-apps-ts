@@ -22,18 +22,6 @@ Check out other [Awesome Quest Network dApps](https://github.com/QuestNetwork/aw
 
 [Quest OS](https://github.com/QuestNetwork/quest-os-js) uses [4096 Bit RSA-OAEP](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Operation) encryption, [256 Bit AES-CBC](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) encryption and [NIST P-521 EC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Fast_reduction_(NIST_curves)) signatures.
 
-## Lead Maintainer
-
-[StationedInTheField](https://github.com/StationedInTheField)
-
-## Support Us
-Please consider supporting us, so that we can build a non-profit for this project (ツ)
-
-| Ethereum| Bitcoin |
-|---|---|
-| `0xBC2A050E7B87610Bc29657e7e7901DdBA6f2D34E` | `bc1qujrqa3s34r5h0exgmmcuf8ejhyydm8wwja4fmq`   |
-|  <img src="https://github.com/QuestNetwork/qDesk/raw/master/doc/images/eth-qr.png" >   | <img src="https://github.com/QuestNetwork/qDesk/raw/master/doc/images/btc-qr.png" > |
-
 ## Development
 
 qDesk Apps is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
@@ -52,6 +40,20 @@ Pro Tip: Put a file in your `/bin` that runs the quest-cli like so `node /path/t
 
 **0.9.5**
 - Basic functionality
+
+
+## Lead Maintainer
+
+[StationedInTheField](https://github.com/StationedInTheField)
+
+## Support Us
+Please consider supporting us, so that we can build a non-profit for this project (ツ)
+
+| Ethereum| Bitcoin |
+|---|---|
+| `0xBC2A050E7B87610Bc29657e7e7901DdBA6f2D34E` | `bc1qujrqa3s34r5h0exgmmcuf8ejhyydm8wwja4fmq`   |
+|  <img src="https://github.com/QuestNetwork/qDesk/raw/master/doc/images/eth-qr.png" >   | <img src="https://github.com/QuestNetwork/qDesk/raw/master/doc/images/btc-qr.png" > |
+
 
 ## License
 GNU Affero GPLv3
