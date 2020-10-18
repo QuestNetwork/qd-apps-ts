@@ -6,7 +6,7 @@
 
 qDesk Apps is a module for [qDesk](https://qDesk.org). It's accessible across qDesk, you can use it with qDesk Messages, qDesk Social and other qDesk modules. This module allows peers on the network to exchange, discuss, categorize and rate apps democratically.
 
-Use [Quest OS](https://github.com/QuestNetwork/quest-os-js) in your applications and you can use the underlying channels and data in your own application by booting with [Quest News JS](https://github.com/QuestNetwork/quest-news-js).
+Use [Quest OS](https://github.com/QuestNetwork/quest-os-js) in your applications and you can use the underlying channels and data in your own application by booting with [Quest Apps JS](https://github.com/QuestNetwork/quest-apps-js).
 
 qDesk Apps allows users to share apps hosted on the [Interplanetary Filesystem](https://ipfs.io). Starting with our last patch for the rewrite 0.9.9+ premium app licenses can be purchased with Ethereum. qDesk Apps is a module for [qDesk](https://github.com/QuestNetwork/qDesk) and it's built on [Quest OS](https://github.com/QuestNetwork/quest-os-js) which makes use of the [Interplanetary Filesystem](https://ipfs.io), [IPFS GossipSub](https://blog.ipfs.io/2020-05-20-gossipsub-v1.1/) and [qDesk](https://github.com/QuestNetwork/qDesk), our example app based on [Angular10](https://angular.io/).
 
