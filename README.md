@@ -28,5 +28,5 @@ Pro Tip: Put a file in your `/bin` that runs the quest-cli like so `node /path/t
 
 # Features
 
-**0.9.5**
+**0.9.6**
 - Basic functionality
