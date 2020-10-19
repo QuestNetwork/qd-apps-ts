@@ -22,7 +22,7 @@ See our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) for the develo
 
 qD Apps is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
 
-# Commands
+### Commands
 
 **Prepare Package**
 
